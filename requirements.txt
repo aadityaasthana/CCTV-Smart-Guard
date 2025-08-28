@@ -1,0 +1,10 @@
+opencv-python
+numpy
+ultralytics
+mediapipe
+streamlit
+sort-tracker
+pandas
+flask
+python-dotenv
+watchdog

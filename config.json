@@ -1,0 +1,13 @@
+{
+  "camera_source": 0,
+  "face_matching_enabled": false,
+  "whitelist_mode": true,
+  "face_match_threshold": 0.45,
+  "max_whitelist_size": 100,
+  "raw_ttl_hours": 24,
+  "clip_dir": "data/clips",
+  "blur_faces_by_default": true,
+  "ppe_detection": true,
+  "crowd_counting": true,
+  "queue_monitoring": true
+}
